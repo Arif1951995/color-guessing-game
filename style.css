@@ -33,7 +33,7 @@ header {
     background-color: rgb(234, 245, 111);
     border-radius: 10%;
     cursor: pointer;
-    transition: all 2s;
+    transition: all 0.8s;
 }
 .btns {
     padding: 20px;
