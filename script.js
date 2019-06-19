@@ -63,6 +63,8 @@ document.querySelector('h1').innerHTML = pickedColor;
 
       randomNum = Math.floor(Math.random() * 6);
  pickedColor = squares[randomNum].style.backgroundColor;
+ document.querySelector('h1').innerHTML = pickedColor;
+
  }
 
 
